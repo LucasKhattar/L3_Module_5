@@ -1,5 +1,10 @@
-/data_structures/
-/longestChipCompetition.class
 /Beatle.class
 /Chip.class
-/LongChipCompetition.class
+/algorithms/
+/data_structures/
+/longestChipCompetition.class
+/other/
+/unit_tests/
+/longestChipCompetition$Beatle.class
+/longestChipCompetition$Chip.class
+/snakesOnAPlane.class
